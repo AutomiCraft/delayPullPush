@@ -11,10 +11,10 @@ body * {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 65px;
     font-weight: 700;
     color: red;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -25,4 +25,8 @@ p {
 
 .container {
     width: 1000px;
+}
+
+.position-relative {
+    position: relative;
 }
